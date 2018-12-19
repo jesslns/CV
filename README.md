@@ -1,10 +1,12 @@
-## Your Name
+## Jessica Ngai Sui Leung
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A former water engineer who is enrolled in London's leading software development bootcamp. I have participated in a range of master planning projects as a team and performed data analysis individually. As a water engineer, I have enjoyed formulating environmental strategies, but the use of modelling packages do not give me the same sense of satisfaction if I were the person who develop the programme. 
+
+Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems. 
 
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
