@@ -1,21 +1,23 @@
 ## Jessica Ngai Sui Leung
 
-A former water engineer who is enrolled in London's leading software development bootcamp. I have participated in a range of master planning projects as a team and performed data analysis individually. As a water engineer, I have enjoyed formulating environmental strategies, but the use of modelling packages do not give me the same sense of satisfaction if I were the person who develop the programme. 
+A former water engineer who aspires to be a full stack developer and is enrolled in London's leading software development bootcamp. I have participated in a range of master planning projects as a team and performed data analysis individually. As a water engineer, I have enjoyed formulating environmental strategies, but the use of modelling packages do not give me the same sense of satisfaction if I were the person who develop the programme. 
 
-Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems. 
+Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems.
 
 ## Skills
 
-#### Problem Solving
+#### Analytical and Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I wrote numerical models with Matlab and Python regularly during my university studies. 
+My job as an environmental consultant required data processing and formulating water resources management strategies for urban planning projects.
 
-- Experience
+- 
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Adaptability
 
+Collaborate with various department to formulate inter-disciplinary strategies to achieve sustainable urban development.
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
@@ -25,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (7th Jan 2019 - 29th March 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -36,17 +38,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Imperial College (Oct 2015 to Sep 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc Hydrology and Water Resources Management
+- Merit
+- Head of research department in Raincatcher Society
+
+#### Durham University (Oct 2012 - Jun 2015)
+
+- BSc Natural Sciences (Earth Sciences, Geography, Physics)
+- 2:1
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Metis Consultants** (Jan 2018 to Sep 2018)    
+*Flood Risk Consultant*  
+**AECOM** (Oct 2016 to Oct 2017)   
+*Graduate Environmental Consultant*  
