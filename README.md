@@ -8,22 +8,22 @@ Upon completing Makers Academy bootcamp, I will be equipped with software engine
 
 #### Analytical and Problem Solving
 
-I wrote numerical models with Matlab and Python regularly during my university studies. 
-My job as an environmental consultant required data processing and formulating water resources management strategies for urban planning projects.
-
-- 
-- Achievements
-- Evidence
+I wrote numerical models with Matlab and Python regularly to solve scientific problems during my university studies. My job as an environmental consultant required data processing and formulating water resources management strategies for urban planning projects. I am trained to formulate solutions step by step, wchich allows me to solve any problems in a logical fashion.
 
 #### Adaptability
 
-Collaborate with various department to formulate inter-disciplinary strategies to achieve sustainable urban development.
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have demonstrated good adaptability through various volunteering work and multi-disciplinary projects.
+As an environmental consultant I worked with various departments to formulate inter-disciplinary strategies to achieve sustainable urban development. A few strategies are often required to adapt to clients' requirement.
 
-- I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Researching Skills
+
+Investigaed site constraints in order to provide site-spcific strategies and research for innovative solutions. Data collection at sites.
+
+- Investigate different water quality checking techniques for rural village in Tanzania. 
 
 ## Education
 
