@@ -1,10 +1,10 @@
 ## Jessica Ngai Sui Leung
 
-A highly-motivated individual backed with strong analytical and problem solving skills aspires to be a full stack developer. During my study at university, I enjoyed writing numerical models to study various environmental processes very much. It is very satisfying to see complicated processes being solved in a quick and tidy fashion. After graduation, I became an environmental consultant. I participated in a range of master planning projects and perform flood risk analysis regularly. Although I enjoyed solving environmental problems and performing data analysis, the use of commercial modelling packages do not give me the same sense of satisfaction as if I were the person who develop them.
+A highly-motivated individual backed with strong analytical and problem solving skills aspires to be a full stack developer. During my study at university, I very much enjoyed writing numerical models to study various environmental processes as it is very rewarding to see complicated processes being solved in a quick and tidy fashion. After graduation, I became an environmental consultant. I participated in a range of master planning projects and perform flood risk analysis regularly. I enjoyed solving environmental problems and performing data analysis but the use of commercial software packages do not give me the same sense of satisfaction as I had in writing .
 
-In one occassion, my friend showed me his side project: a climbing-related web app, and sparked my interest in software development. Since then, I started learning coding on codecademy and learnt the basic of web app development on coursera. After 2 months of self-teaching, I have decided that I would like change my career and was enrolled in London's leading software development bootcamp. 
+My interest in software development was sparked by my friend who showed me his side project: a climbing-related web app. Since then, I started learning coding on codecademy and learning the basics of web app development on coursera. After 2 months of self-teaching, I have decided to turn my hobby into a career and was enrolled in London's leading software development bootcamp. 
 
-Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems.
+Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems. 
 
 ## Skills
 
