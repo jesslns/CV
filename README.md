@@ -1,6 +1,8 @@
 ## Jessica Ngai Sui Leung
 
-A former water engineer who aspires to be a full stack developer and is enrolled in London's leading software development bootcamp. I have participated in a range of master planning projects as a team and performed data analysis individually. As a water engineer, I have enjoyed formulating environmental strategies, but the use of modelling packages do not give me the same sense of satisfaction if I were the person who develop the programme. 
+A highly-motivated individual backed with strong analytical and problem solving skills aspires to be a full stack developer. During my study at university, I enjoyed writing numerical models to study various environmental processes very much. It is very satisfying to see complicated processes being solved in a quick and tidy fashion. After graduation, I became an environmental consultant. I participated in a range of master planning projects and perform flood risk analysis regularly. Although I enjoyed solving environmental problems and performing data analysis, the use of commercial modelling packages do not give me the same sense of satisfaction as if I were the person who develop them.
+
+In one occassion, my friend showed me his side project: a climbing-related web app, and sparked my interest in software development. Since then, I started learning coding on codecademy and learnt the basic of web app development on coursera. After 2 months of self-teaching, I have decided that I would like change my career and was enrolled in London's leading software development bootcamp. 
 
 Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems.
 
@@ -8,22 +10,15 @@ Upon completing Makers Academy bootcamp, I will be equipped with software engine
 
 #### Analytical and Problem Solving
 
-I wrote numerical models with Matlab and Python regularly to solve scientific problems during my university studies. My job as an environmental consultant required data processing and formulating water resources management strategies for urban planning projects. I am trained to formulate solutions step by step, wchich allows me to solve any problems in a logical fashion.
+I wrote numerical models with Matlab and Python regularly to solve scientific problems during my university studies. As an environmental consultant, I performed data processing to develop environmental strategies in urban planning projects and to undertake flood risk analysis. I am trained to formulate solutions step by step and solve problems in a logical fashion.
 
 #### Adaptability
 
-I have demonstrated good adaptability through various volunteering work and multi-disciplinary projects.
-As an environmental consultant I worked with various departments to formulate inter-disciplinary strategies to achieve sustainable urban development. A few strategies are often required to adapt to clients' requirement.
+I am a fast learner who take on board new idea and concepts quickly. During my 2-year consultancy experience, I am constantly exposed to different engineering software packages, whcih I can master within short time. When investigating best environmental practice management, site constraints were considered and alternative solutions were also included. 
 
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Collaboration
 
-#### Researching Skills
-
-Investigaed site constraints in order to provide site-spcific strategies and research for innovative solutions. Data collection at sites.
-
-- Investigate different water quality checking techniques for rural village in Tanzania. 
+I collaborated constantly with various departments to develop multi-disciplinary strategies for sustainable urban development as an environmental consultant. I have developed good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
 
 ## Education
 
