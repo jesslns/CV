@@ -51,6 +51,7 @@ I collaborated constantly with various departments to develop multi-disciplinary
 **AECOM** (Oct 2016 to Oct 2017)   
 *Graduate Environmental Consultant*  
 
-## Hobby
+## Hobbies
 
 - Rock climbing
+- Travelling
