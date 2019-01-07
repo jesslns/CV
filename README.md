@@ -2,7 +2,7 @@
 
 A highly-motivated individual backed with strong analytical and problem solving skills aspires to be a full stack developer. During my study at university, I very much enjoyed writing numerical models to simulate various environmental processes. It is very rewarding to see complicated processes being solved in an organised and concise fashion. After graduation, I became an environmental consultant. My primary role was to develope water management strategies and perform flood risk analysis regularly. I enjoyed solving environmental problems and performing data analysis but the use of commercial software packages was not as satisfying as writing the programme.
 
-While I was looking for an opportunity to steer my career towards programming within the field of civil engineering, my interest in software development was sparked by my friend, who showed me his side project: a climbing-related web app. Since then, I started learning coding on codecademy and learning the basics of web app development on coursera. After 2 months of self-teaching, I have decided to turn my hobby into a career and was enrolled in London's leading software development bootcamp. Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems. 
+While I was looking for an opportunity to steer my career towards programming within the field of civil engineering, my interest in software development was sparked by my friend, who showed me his side project: a climbing-related web app. Since then, I started learning coding on codecademy and learning the basics of web app development on coursera. After 2 months of self-teaching, I have decided to turn my hobby into a career and was enrolled in Makers Fellowship Programme -- London's leading software development bootcamp. Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems. 
 
 ## Skills
 
@@ -31,6 +31,7 @@ I collaborated constantly with various departments to develop multi-disciplinary
 
 #### Makers Academy (Jan 2019 - March 2019)
 
+- Fellowship programme
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
