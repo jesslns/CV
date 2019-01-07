@@ -9,17 +9,17 @@ While I was looking for an opportunity to steer my career towards programming wi
 
 #### Analytical and Problem Solving
 
-I wrote numerical models with Matlab and Python regularly to investigate scientific problems during my university studies. As an environmental consultant, I performed data processing to develop environmental strategies in urban planning projects and to undertake flood risk analysis. I am trained to formulate solutions step by step and solve problems in a logical fashion.
+I wrote numerical models with Matlab and Python regularly to investigate scientific problems during my university studies. As an environmental consultant, I performed data processing to develop environmental strategies in urban planning projects and to undertake flood risk analysis. I am trained to formulate solutions step by step and solve problems in a logical and systematic fashion.
 
 #### Algorithmic 
 
-I was given opportunity to develop my algorithmic and statiscial skills during my 4-year university studies. I regularly apply such skills in writing numerical models to perform time series analysis and forcasting in the context of environmental engineering such as:
+During my 4-year university studies, I regularly apply algorithmic and statiscial skills in writing numerical models to perform time series analysis and forcasting in the context of environmental engineering, such as:
 
 - Hydroinformatics
 - Groundwater flow and quality modelling
 - Rainfall-runoff modelling
 
-#### Adaptability
+#### Adaptability and flexibility
 
 I am a fast learner who take on board new idea and concepts quickly. During my 2-year consultancy experience, I am constantly exposed to different engineering software packages, whcih I can master within short time. When investigating best environmental practice management, site constraints were considered and alternative solutions were also included. 
 
@@ -29,7 +29,7 @@ I collaborated constantly with various departments to develop multi-disciplinary
 
 ## Education
 
-#### Makers Academy (7th Jan 2019 - 29th March 2019)
+#### Makers Academy (Jan 2019 - March 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
