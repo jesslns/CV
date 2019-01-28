@@ -30,8 +30,8 @@ I collaborated constantly with various departments to develop multi-disciplinary
 ## Projects
 |Project|Summary|Technologies|Testing|
 | :---- | :---- | :---- | :---- |
-|Takeaway|A restaurant can take orders|Twillio API, Ruby|Rspec|
-|[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)| Play rock paper scissors game|Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
+|[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)| My first project on building a web app using the MVC approach|Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
+|[Takeaway](https://github.com/jesslns/takeaway-challenge)|My first experience in implementing an API. This project |Twillio API, Ruby|Rspec|
 
 ## Education
 
