@@ -27,6 +27,12 @@ I am a fast learner who take on board new idea and concepts quickly. During my 2
 
 I collaborated constantly with various departments to develop multi-disciplinary strategies for sustainable urban development as an environmental consultant. I have developed good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
 
+## Projects
+|Project|Summary|Technologies|Testing|
+| :---- | :---- | :---- | :---- |
+|Takeaway|A restaurant can take orders|Twillio API, Ruby|Rspec|
+|[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)| Play rock paper scissors game|Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
+
 ## Education
 
 #### Makers Academy (Jan 2019 - March 2019)
