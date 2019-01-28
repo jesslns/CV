@@ -1,5 +1,7 @@
 ## Jessica Ngai Sui Leung
 
+[Linkedin](www.linkedin.com/in/jessica-ngai-sui-leung)
+
 A highly-motivated individual backed with strong analytical and problem solving skills aspires to be a full stack developer. During my study at university, I very much enjoyed writing numerical models to simulate various environmental processes. It is very rewarding to see complicated processes being solved in an organised and concise fashion. After graduation, I became an environmental consultant. My primary role was to develope water management strategies and perform flood risk analysis regularly. I enjoyed solving environmental problems and performing data analysis but the use of commercial software packages was not as satisfying as writing the programme.
 
 While I was looking for an opportunity to steer my career towards programming within the field of civil engineering, my interest in software development was sparked by my friend, who showed me his side project: a climbing-related web app. Since then, I started learning coding on codecademy and learning the basics of web app development on coursera. After 2 months of self-teaching, I have decided to turn my hobby into a career and was enrolled in Makers Fellowship Programme -- London's leading software development bootcamp. Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems. 
@@ -13,7 +15,7 @@ I wrote numerical models with Matlab and Python regularly to investigate scienti
 
 #### Algorithmic 
 
-During my 4-year university studies, I regularly apply algorithmic and statiscial skills in writing numerical models to perform time series analysis and forcasting in the context of environmental engineering, such as:
+Can apply algorithmic and statiscial skills in writing numerical models to perform time series analysis and forcasting in the context of environmental engineering, such as:
 
 - Hydroinformatics
 - Groundwater flow and quality modelling
@@ -25,7 +27,8 @@ I am a fast learner who take on board new idea and concepts quickly. During my 2
 
 #### Collaboration
 
-I collaborated constantly with various departments to develop multi-disciplinary strategies for sustainable urban development as an environmental consultant. I have developed good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
+Pair programming daily during the software engineering course. <br>
+Collaborated with various departments to develop multi-disciplinary strategies for sustainable urban development as an environmental consultant. I have developed good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
 
 ## Projects
 |Project|Summary|Technologies|Testing|
