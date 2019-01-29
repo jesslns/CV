@@ -30,7 +30,7 @@ I enjoy the process of finding a solution to a problem and creating something in
 |Project|Summary|Technologies|Testing|
 | :---- | :---- | :---- | :---- |
 |[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)<br>([Github](https://github.com/jesslns/rps-challenge))| My first project on building a web app using the Model View Control approach. I have gained better understanding of the web ecosystem as well as reinforced my skills in writing clean code through encapsulation and delegation. I also became aware of single responsibility principle. |Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
-|[Takeaway](https://github.com/jesslns/takeaway-challenge)|My first experience in implementing an API. The app allows user to order dishes and checkout. With the use of twillio gem and the twillio API, customer could receive a confirmaton sms when a takeaway order was received. |Twillio API, Ruby|Rspec|
+|[Takeaway](https://github.com/jesslns/takeaway-challenge)|My first experience in implementing an API. The app allows user to order dishes and checkout. With the use of twillio gem and the twillio API, customer could receive a confirmation sms when a takeaway order was received. |Twillio API, Ruby|Rspec|
 
 ## Education
 
@@ -39,7 +39,7 @@ I enjoy the process of finding a solution to a problem and creating something in
   - Started with self-taught coding before joining Makers. 
   - Obsessed in evaluation and thinking how to improve my code, such as writing cleaner code.
 - Fast, independent learner: 
-  - Conitnuously look at online resources to improve my code.
+  - Continuously look at online resources to improve my code.
   - Able to apply knowledge acquire during the week to the corresponding weekend challenges.
 - Great collaborator:
   - Enjoy pair programming.
@@ -49,7 +49,7 @@ I enjoy the process of finding a solution to a problem and creating something in
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-More informatin on the curriculum can be found [here](https://faq.makers.tech/knowledge/how-can-i-learn-more-about-your-curriculum)
+More information on the curriculum can be found [here](https://faq.makers.tech/knowledge/how-can-i-learn-more-about-your-curriculum)
 
 #### Imperial College (Oct 2015 to Sep 2016)
 - MSc Hydrology and Water Resources Management (Merit)
