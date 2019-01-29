@@ -8,24 +8,20 @@ I enjoy the process of finding a solution to a problem and creating something in
 
 ## Skills
 
-
 ####  Problem Solving
-
 - Able to formulate solutions step by step and solve problems in a logical and systematic fashion. 
-- Can apply algorithmic and statiscial skills in writing numerical models with Matlab and Python to investigate scientific problems and to perform time series analysis/forcasting.
+- Can apply algorithmic and statistical skills in writing numerical models with Matlab and Python to investigate scientific problems and to perform time series analysis/forecasting.
 
 #### Analytical
 - Performed data processing to develop environmental strategies in urban planning projects.
 - Performed flood risk analysis and wrote technical reports.
 
 #### Adaptability and flexibility
-
 - A fast learner who take on board new idea and concepts quickly.
 - Constantly exposed to different engineering software packages, which I can master within short time. 
 - Learn coding using different resources.
 
 #### Collaboration
-
 - Pair programming daily during the software engineering course. 
 - Collaborated with various departments to develop multi-disciplinary strategies for sustainable urban development. 
 - Have good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
@@ -39,7 +35,6 @@ I enjoy the process of finding a solution to a problem and creating something in
 ## Education
 
 #### Makers Academy (Jan 2019 - March 2019)
-
 - Curious and passionate about code: 
   - Started with self-taught coding before joining Makers. 
   - Obsessed in evaluation and thinking how to improve my code, such as writing cleaner code.
@@ -57,12 +52,10 @@ I enjoy the process of finding a solution to a problem and creating something in
 More informatin on the curriculum can be found [here](https://faq.makers.tech/knowledge/how-can-i-learn-more-about-your-curriculum)
 
 #### Imperial College (Oct 2015 to Sep 2016)
-
 - MSc Hydrology and Water Resources Management (Merit)
 - Head of research department of Raincatcher Society
 
 #### Durham University (Oct 2012 - Jun 2015)
-
 - BSc Natural Sciences (Earth Sciences, Geography, Physics) (2:1)
 
 ## Experience
