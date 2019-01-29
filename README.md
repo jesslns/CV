@@ -1,65 +1,69 @@
-## Jessica Ngai Sui Leung
+<h2 align="center">Jessica Ngai Sui Leung</h2>
+<p align="center">
+  <a href="www.linkedin.com/in/jessica-ngai-sui-leung">LinkedIn</a>  |  
+  <a href="https://github.com/jesslns">Github</a>
+</p>
 
-[Linkedin](www.linkedin.com/in/jessica-ngai-sui-leung)
-
-A highly-motivated individual backed with strong analytical and problem solving skills aspires to be a full stack developer. During my study at university, I very much enjoyed writing numerical models to simulate various environmental processes. It is very rewarding to see complicated processes being solved in an organised and concise fashion. After graduation, I became an environmental consultant. My primary role was to develope water management strategies and perform flood risk analysis regularly. I enjoyed solving environmental problems and performing data analysis but the use of commercial software packages was not as satisfying as writing the programme.
-
-While I was looking for an opportunity to steer my career towards programming within the field of civil engineering, my interest in software development was sparked by my friend, who showed me his side project: a climbing-related web app. Since then, I started learning coding on codecademy and learning the basics of web app development on coursera. After 2 months of self-teaching, I have decided to turn my hobby into a career and was enrolled in Makers Fellowship Programme -- London's leading software development bootcamp. Upon completing Makers Academy bootcamp, I will be equipped with software engineering skills that can combine with my creativity in developing solutions to tricky problems. 
+I enjoy the process of finding a solution to a problem and creating something innovative in itself. I have a strong analytical bacground from my master in Hydrology and as an environmental consultant for 2 years. I can work well under pressure and have good time management to meet deadlines. My passion and curiosity about code leads me to become a full stack developer. I am determined to extend my hobby into a career and was selected as a Fellow student at Makers Academy. I will be job-ready upon graduation of the 12-week immersive software engineering course.
 
 ## Skills
 
 
-#### Analytical and Problem Solving
+####  Problem Solving
 
-I wrote numerical models with Matlab and Python regularly to investigate scientific problems during my university studies. As an environmental consultant, I performed data processing to develop environmental strategies in urban planning projects and to undertake flood risk analysis. I am trained to formulate solutions step by step and solve problems in a logical and systematic fashion.
+- Able to formulate solutions step by step and solve problems in a logical and systematic fashion. 
+- Can apply algorithmic and statiscial skills in writing numerical models with Matlab and Python to investigate scientific problems and to perform time series analysis/forcasting.
 
-#### Algorithmic 
-
-Can apply algorithmic and statiscial skills in writing numerical models to perform time series analysis and forcasting in the context of environmental engineering, such as:
-
-- Hydroinformatics
-- Groundwater flow and quality modelling
-- Rainfall-runoff modelling
+#### Analytical
+- Performed data processing to develop environmental strategies in urban planning projects.
+- Performed flood risk analysis and wrote technical reports.
 
 #### Adaptability and flexibility
 
-I am a fast learner who take on board new idea and concepts quickly. During my 2-year consultancy experience, I am constantly exposed to different engineering software packages, whcih I can master within short time. When investigating best environmental practice management, site constraints were considered and alternative solutions were also included. 
+- A fast learner who take on board new idea and concepts quickly.
+- Constantly exposed to different engineering software packages, whcih I can master within short time. 
+- Learn coding using different resources.
 
 #### Collaboration
 
-Pair programming daily during the software engineering course. <br>
-Collaborated with various departments to develop multi-disciplinary strategies for sustainable urban development as an environmental consultant. I have developed good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
+- Pair programming daily during the software engineering course. 
+- Collaborated with various departments to develop multi-disciplinary strategies for sustainable urban development. 
+- Have good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
 
 ## Projects
 |Project|Summary|Technologies|Testing|
 | :---- | :---- | :---- | :---- |
-|[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)| My first project on building a web app using the MVC approach|Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
+|[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)<br>([Github](https://github.com/jesslns/rps-challenge))| My first project on building a web app using the MVC approach|Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
 |[Takeaway](https://github.com/jesslns/takeaway-challenge)|My first experience in implementing an API. This project |Twillio API, Ruby|Rspec|
 
 ## Education
 
 #### Makers Academy (Jan 2019 - March 2019)
 
-- Fellowship programme
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+- Curious and passionate about code: 
+  - Started with self-taught coding before joining Makers. 
+  - Obsessed in evaluation and thinking how to improve my code, such as writing cleaner code.
+- Fast, independent learner: 
+  - Conitnuously look at online resources to improve my code.
+  - Able to apply knowledge acquire during the week to the corresponding weekend challenges.
+- Great collaborator:
+  - Enjoy pair programming.
+  - Can learn in a peer-to-peer environment.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+More informatin on the curriculum can be found [here](https://faq.makers.tech/knowledge/how-can-i-learn-more-about-your-curriculum)
+
 #### Imperial College (Oct 2015 to Sep 2016)
 
-- MSc Hydrology and Water Resources Management
-- Merit
-- Head of research department in Raincatcher Society
+- MSc Hydrology and Water Resources Management (Merit)
+- Head of research department of Raincatcher Society
 
 #### Durham University (Oct 2012 - Jun 2015)
 
-- BSc Natural Sciences (Earth Sciences, Geography, Physics)
-- 2:1
+- BSc Natural Sciences (Earth Sciences, Geography, Physics) (2:1)
 
 ## Experience
 
