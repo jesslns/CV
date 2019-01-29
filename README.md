@@ -33,8 +33,8 @@ I enjoy the process of finding a solution to a problem and creating something in
 ## Projects
 |Project|Summary|Technologies|Testing|
 | :---- | :---- | :---- | :---- |
-|[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)<br>([Github](https://github.com/jesslns/rps-challenge))| My first project on building a web app using the MVC approach|Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
-|[Takeaway](https://github.com/jesslns/takeaway-challenge)|My first experience in implementing an API. This project |Twillio API, Ruby|Rspec|
+|[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)<br>([Github](https://github.com/jesslns/rps-challenge))| My first project on building a web app using the Model View Control approach. I have gained better understanding of the web ecosystem as well as reinforced my skills in writing clean code through encapsulation and delegation. I also became aware of single responsibility principle. |Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
+|[Takeaway](https://github.com/jesslns/takeaway-challenge)|My first experience in implementing an API. The app allows user to order dishes and checkout. With the use of twillio gem and the twillio API, customer could receive a confirmaton sms when a takeaway order was received. |Twillio API, Ruby|Rspec|
 
 ## Education
 
