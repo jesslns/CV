@@ -4,7 +4,7 @@
   <a href="https://github.com/jesslns">Github</a>
 </p>
 
-I enjoy the process of finding a solution to a problem and creating something innovative in itself. I have a strong analytical bacground from my master in Hydrology and as an environmental consultant for 2 years. I can work well under pressure and have good time management to meet deadlines. My passion and curiosity about code leads me to become a full stack developer. I am determined to extend my hobby into a career and was selected as a Fellow student at Makers Academy. I will be job-ready upon graduation of the 12-week immersive software engineering course.
+I enjoy the process of finding a solution to a problem and creating something innovative in itself. I have a strong analytical background from my master in Hydrology and as an environmental consultant for 2 years. I can work well under pressure and have good time management to meet deadlines. My passion and curiosity about code leads me to become a full stack developer. I am determined to extend my hobby into a career and was selected as a Fellow student at Makers Academy. I will be job-ready upon graduation of the 12-week immersive software engineering course.
 
 ## Skills
 
