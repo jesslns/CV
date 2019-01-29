@@ -21,7 +21,7 @@ I enjoy the process of finding a solution to a problem and creating something in
 #### Adaptability and flexibility
 
 - A fast learner who take on board new idea and concepts quickly.
-- Constantly exposed to different engineering software packages, whcih I can master within short time. 
+- Constantly exposed to different engineering software packages, which I can master within short time. 
 - Learn coding using different resources.
 
 #### Collaboration
