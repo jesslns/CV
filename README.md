@@ -4,7 +4,7 @@
   <a href="https://github.com/jesslns">Github</a>
 </p>
 
-I enjoy the process of finding a solution to a problem and creating something innovative in itself. I have a strong analytical background from my master in Hydrology and as an environmental consultant for 2 years. I can work well under pressure and have good time management to meet deadlines. My passion and curiosity about code leads me to become a full stack developer. I am determined to extend my hobby into a career and was selected as a Fellow student at Makers Academy. I will be job-ready upon graduation of the 12-week immersive software engineering course.
+I enjoy the process of finding a solution to a problem and creating something innovative in itself. I have a strong analytical background from my master in Hydrology and as an environmental consultant for 2 years. I can work well under pressure and have good time management to meet deadlines. My passion and curiosity about code leads me to become a full stack developer. I am selected as a Fellow student at Makers Academy where I am trained to work in a modern software development team.
 
 ## Skills
 
@@ -17,18 +17,19 @@ I enjoy the process of finding a solution to a problem and creating something in
 - Performed flood risk analysis and wrote technical reports.
 
 #### Adaptability and flexibility
-- A fast learner who take on board new idea and concepts quickly.
+- A fast and keen learner who take on board new idea and concepts quickly.
 - Constantly exposed to different engineering software packages, which I can master within short time. 
 - Learn coding using different resources.
 
 #### Collaboration
 - Pair programming daily during the software engineering course. 
 - Collaborated with various departments to develop multi-disciplinary strategies for sustainable urban development. 
-- Have good communication skills and understand the importance of being ope-minded in an collaborative envionment to facilitate innovation.
+- Have good communication skills and remain open-minded, which can facilitate innovation in a collaborative envionment.
 
 ## Projects
 |Project|Summary|Technologies|Testing|
 | :---- | :---- | :---- | :---- |
+|[Chitter](https://github.com/jesslns/chitter-challenge)| A simple Twitter clone application that is backed with a database.|PostgreSQL, Sinatra, Rack, Ruby|Capybara, Rspec|
 |[Rock Paper Scissors](https://rpsbyjess.herokuapp.com/)<br>([Github](https://github.com/jesslns/rps-challenge))| My first project on building a web app using the Model View Control approach. I have gained better understanding of the web ecosystem as well as reinforced my skills in writing clean code through encapsulation and delegation. I also became aware of single responsibility principle. |Ruby, HTML/CSS, <br> Sinatra, Selenium-Webdriver, Rack, Ruby | Rspec, Capybara|
 |[Takeaway](https://github.com/jesslns/takeaway-challenge)|My first experience in implementing an API. The app allows user to order dishes and checkout. With the use of twillio gem and the twillio API, customer could receive a confirmation sms when a takeaway order was received. |Twillio API, Ruby|Rspec|
 
@@ -67,5 +68,6 @@ More information on the curriculum can be found [here](https://faq.makers.tech/k
 
 ## Hobbies
 
+- Learning new things
 - Rock climbing
 - Travelling
