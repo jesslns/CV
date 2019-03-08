@@ -1,6 +1,6 @@
 <h2 align="center">Jessica Ngai Sui Leung</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/jessica-ngai-sui-leung">LinkedIn</a>  |  
+  <a href="https://www.linkedin.com/in/jessica-ngai-sui-leung-8b5446116/">LinkedIn</a>  |  
   <a href="https://github.com/jesslns">Github</a>
 </p>
 
