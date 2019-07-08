@@ -69,6 +69,7 @@ More information on the curriculum can be found [here](https://faq.makers.tech/k
 Develop mapping applications.
 Assist in writing technical documentation.
 Technology Stack: Vue.Js, Node.JS, MSSQL 
+
 **Metis Consultants** (Jan 2018 to Sep 2018)    
 *Flood Risk Consultant*  
 **AECOM** (Oct 2016 to Oct 2017)   
