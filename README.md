@@ -4,7 +4,7 @@
   <a href="https://github.com/jesslns">Github</a>
 </p>
 
-I enjoy the process of finding a solution to a problem and creating something innovative in itself. I have a strong analytical background from my master in Hydrology and as an environmental consultant for 2 years. I can work well under pressure and have good time management to meet deadlines. I also have extensive experience in working with internal and external clients to formulate solutions. My passion and curiosity about code leads me to become a full stack developer. I am selected as a Fellow student at Makers Academy where I am trained to work in a modern software development team.
+I enjoy the process of finding a solution to a problem and creating something innovative in itself. I have a strong analytical background from my master in Hydrology and as an environmental consultant for 2 years. I can work well under pressure and have good time management to meet deadlines. I also have extensive experience in working with internal and external clients to formulate solutions. My passion and curiosity about code leads me to become a full stack developer. I was selected as a Fellow student at Makers Academy where I was trained to work in a modern software development team.
 
 ## Skills
 
@@ -64,7 +64,11 @@ More information on the curriculum can be found [here](https://faq.makers.tech/k
 - BSc Natural Sciences (Earth Sciences, Geography, Physics) (2:1)
 
 ## Experience
-
+**Esri China (hong Kong)** (Apr 2019 to present)    
+*GIS Programmer*  
+Develop mapping applications.
+Assist in writing technical documentation.
+Technology Stack: Vue.Js, Node.JS, MSSQL 
 **Metis Consultants** (Jan 2018 to Sep 2018)    
 *Flood Risk Consultant*  
 **AECOM** (Oct 2016 to Oct 2017)   
