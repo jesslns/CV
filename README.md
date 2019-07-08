@@ -66,10 +66,9 @@ More information on the curriculum can be found [here](https://faq.makers.tech/k
 ## Experience
 **Esri China (hong Kong)** (Apr 2019 to present)    
 *GIS Programmer*  
-Develop mapping applications.
-Assist in writing technical documentation.
-Technology Stack: Vue.Js, Node.JS, MSSQL 
-
+Develop mapping applications.<br>
+Assist in writing technical documentation.<br>
+Technology Stack: Vue.Js, Node.JS, MSSQL <br>
 **Metis Consultants** (Jan 2018 to Sep 2018)    
 *Flood Risk Consultant*  
 **AECOM** (Oct 2016 to Oct 2017)   
